@@ -1,4 +1,5 @@
 import Board from './Board'
+import './Game.css'
 
 const Game = () => {
       return (
